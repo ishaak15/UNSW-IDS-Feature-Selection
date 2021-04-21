@@ -16,3 +16,14 @@
       Testset2.csv
       Testset3.csv
       
+### Training_and_Testing.ipynb: This file has all the models, and their training and testing results. A total of 8 ML Alogirthms were implemented to compare and contrast the effect of feature selection on the different metrics for strengthening Intrusion Detection Systems. The following models were used:
+      k Nearest Neighbour
+      Decision Tree
+      Multinomial Naive Bayes
+      Random Forest
+      Logistic Regression Classifier 
+      Neural Network
+      Ensemble Classifier: AdaBoost Classifier using Decision Tree
+      Ensemble Classifier: Stack Classifier of KNN, Random Forest and XGBoost
+      
+      
